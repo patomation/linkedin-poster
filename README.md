@@ -1,6 +1,6 @@
 # NodeJS MicroService Starter
 
-![flavorite](https://raw.githubusercontent.com/patomation/vanilla-starter/master/public/favicon.ico)
+![flavorite](https://raw.githubusercontent.com/patomation/linkedin-poster/master/linkedin-poster-app.png)
 
 ## Install
 
